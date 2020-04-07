@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/file_document_add_new-128.png</file>
+        <file>img/Folder_Open_Blue-512.png</file>
+        <file>img/icons8-undo-48.png</file>
+        <file>img/close.png</file>
+        <file>img/icons8-copy-48.png</file>
+        <file>img/icons8-paste-40.png</file>
+        <file>img/icons8-cut-48.png</file>
+        <file>img/icons8-save-48.png</file>
+        <file>img/icons8-save-as-48.png</file>
+        <file>img/icons8-about-48.png</file>
+        <file>img/icons8-redo-48.png</file>
+    </qresource>
+</RCC>
